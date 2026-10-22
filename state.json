@@ -1,1 +1,14 @@
-{}
+{
+  "main": {
+    "tabs": [],
+    "active": null,
+    "cursors": {},
+    "chat": [
+      {
+        "role": "user",
+        "text": "sao mình là đang checkout tới đâu nhỉ"
+      }
+    ],
+    "updatedAt": "2026-10-22T07:17:35.851Z"
+  }
+}
